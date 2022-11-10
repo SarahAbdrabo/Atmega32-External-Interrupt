@@ -8,7 +8,7 @@
  4. build and run. 
 
 ## Notes and pointers: 
-- EXTI0 uses pin D4 only. (as mentioned in data sheet.)
+- EXTI0 uses pin D2 only. (as mentioned in data sheet.)
 - General interrupt must be activated seperatly. 
 - according to used complier u may need to change the __attribute() sentax. 
 - this driver is not for all external interrupts in the atmega though they work in a similar fashion. 
