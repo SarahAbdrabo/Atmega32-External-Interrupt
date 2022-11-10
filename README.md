@@ -14,4 +14,4 @@
 - this driver is not for all external interrupts in the atmega though they work in a similar fashion. 
 
 ## Future work
-- expanding to a Generic Conigable EXTI driver ( adding External Interrupts 1, 2). 
+- expanding to a Generic Conigable EXTI driver. 
