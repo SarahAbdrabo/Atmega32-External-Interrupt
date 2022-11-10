@@ -7,5 +7,5 @@
 - according to used complier u may need to change the __attribute() sentax. 
 - this driver is not for all external interrupts in the atmega though they work in a similar fashion. 
 
-## future work
+## Future work
 - expanding to a Generic Conigable EXTI driver ( adding External Interrupts 1, 2). 
